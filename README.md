@@ -30,14 +30,7 @@ python gpt.py
 ```
 
 ## Sample Output
-<img width="573" height="789" alt="Screenshot 2026-02-02 193651" src="https://github.com/user-attachments/assets/92bf9128-731a-43f0-83d5-b72f24328844" />
-```
-Example generated text after ~5,000 training iterations:
-ROMEO:
-Then, let go them of you that
-He wails, shall it differ they sworn,
-Being is he: this live be in hearts heaven,
-```
+<img width="573" height="789" alt="Screenshot 2026-02-02 193651" src="https://github.com/user-attachments/assets/92bf9128-731a-43f0-83d5-b72f24328844"/>
 
 --- 
 

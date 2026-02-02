@@ -26,5 +26,18 @@ The project focuses on understanding **self-attention, multi-head attention, and
 ## Run
 ```bash
 pip install torch
-python train.py
+python gpt.py
 ```
+
+## Future Improvements
+- Upgrade architecture toward GPT-2
+- Switch to BPE / subword tokenization
+- Increase model depth, width, and context length
+- Add learning rate scheduling and gradient clipping
+- Implement better sampling (temperature, top-k, top-p)
+
+---
+
+## Acknowledgements
+- Inspired by Andrej Karpathy’s GPT tutorial
+- Tiny Shakespeare dataset by Karpathy

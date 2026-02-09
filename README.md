@@ -10,7 +10,7 @@ The project focuses on understanding **self-attention, multi-head attention, and
 - Transformer-based GPT architecture
 - Multi-Head Self-Attention
 - Positional embeddings
-- Residual connections + LayerNorm
+- LayerNorm
 - Dropout & AdamW optimizer
 - CUDA support (if available)
 
